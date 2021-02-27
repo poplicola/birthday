@@ -51,6 +51,12 @@
          "id":50,
          "name":"meredythsign",
          "opacity":1,
+         "properties":[
+                {
+                 "name":"openWebsite",
+                 "type":"string",
+                 "value":"https:\/\/poplicola.github.io\/birthday\/meredyth.html"
+                }],
          "type":"tilelayer",
          "visible":true,
          "width":100,
@@ -63,6 +69,12 @@
          "id":51,
          "name":"nicolesign",
          "opacity":1,
+         "properties":[
+                {
+                 "name":"openWebsite",
+                 "type":"string",
+                 "value":"https:\/\/poplicola.github.io\/birthday\/nicole.html"
+                }],
          "type":"tilelayer",
          "visible":true,
          "width":100,
@@ -75,6 +87,12 @@
          "id":52,
          "name":"maurasign",
          "opacity":1,
+         "properties":[
+                {
+                 "name":"openWebsite",
+                 "type":"string",
+                 "value":"https:\/\/poplicola.github.io\/birthday\/maura.html"
+                }],
          "type":"tilelayer",
          "visible":true,
          "width":100,
@@ -87,6 +105,12 @@
          "id":53,
          "name":"elizabethsign",
          "opacity":1,
+         "properties":[
+                {
+                 "name":"openWebsite",
+                 "type":"string",
+                 "value":"https:\/\/poplicola.github.io\/birthday\/elizabeth.html"
+                }],
          "type":"tilelayer",
          "visible":true,
          "width":100,
@@ -99,6 +123,12 @@
          "id":54,
          "name":"jaysonsign",
          "opacity":1,
+         "properties":[
+                {
+                 "name":"openWebsite",
+                 "type":"string",
+                 "value":"https:\/\/poplicola.github.io\/birthday\/jayson.html"
+                }],
          "type":"tilelayer",
          "visible":true,
          "width":100,
@@ -111,6 +141,12 @@
          "id":55,
          "name":"giannasign",
          "opacity":1,
+         "properties":[
+                {
+                 "name":"openWebsite",
+                 "type":"string",
+                 "value":"https:\/\/poplicola.github.io\/birthday\/gianna.html"
+                }],
          "type":"tilelayer",
          "visible":true,
          "width":100,
@@ -123,6 +159,12 @@
          "id":56,
          "name":"madisonsign",
          "opacity":1,
+         "properties":[
+                {
+                 "name":"openWebsite",
+                 "type":"string",
+                 "value":"https:\/\/poplicola.github.io\/birthday\/madison.html"
+                }],
          "type":"tilelayer",
          "visible":true,
          "width":100,
@@ -135,6 +177,12 @@
          "id":57,
          "name":"logansign",
          "opacity":1,
+         "properties":[
+                {
+                 "name":"openWebsite",
+                 "type":"string",
+                 "value":"https:\/\/poplicola.github.io\/birthday\/logan.html"
+                }],
          "type":"tilelayer",
          "visible":true,
          "width":100,
@@ -147,6 +195,12 @@
          "id":58,
          "name":"cecilysign",
          "opacity":1,
+         "properties":[
+                {
+                 "name":"openWebsite",
+                 "type":"string",
+                 "value":"https:\/\/poplicola.github.io\/birthday\/cecily.html"
+                }],
          "type":"tilelayer",
          "visible":true,
          "width":100,
@@ -159,6 +213,12 @@
          "id":59,
          "name":"autumnsign",
          "opacity":1,
+         "properties":[
+                {
+                 "name":"openWebsite",
+                 "type":"string",
+                 "value":"https:\/\/poplicola.github.io\/birthday\/autumn.html"
+                }],
          "type":"tilelayer",
          "visible":true,
          "width":100,
@@ -171,6 +231,12 @@
          "id":60,
          "name":"sophiesign",
          "opacity":1,
+         "properties":[
+                {
+                 "name":"openWebsite",
+                 "type":"string",
+                 "value":"https:\/\/poplicola.github.io\/birthday\/sophie.html"
+                }],
          "type":"tilelayer",
          "visible":true,
          "width":100,
@@ -183,12 +249,6 @@
          "id":61,
          "name":"sophie",
          "opacity":1,
-         "properties":[
-                {
-                 "name":"exitSceneUrl",
-                 "type":"string",
-                 "value":"..\/birthday\/sophie.json"
-                }],
          "type":"tilelayer",
          "visible":true,
          "width":100,
