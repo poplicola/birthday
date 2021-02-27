@@ -8004,19 +8004,6 @@
                         }]
                 }],
          "tilewidth":32
-        }, 
-        {
-         "columns":20,
-         "firstgid":1857,
-         "image":"gnome1.png",
-         "imageheight":300,
-         "imagewidth":648,
-         "margin":0,
-         "name":"gnome1",
-         "spacing":0,
-         "tilecount":180,
-         "tileheight":32,
-         "tilewidth":32
         }],
  "tilewidth":32,
  "type":"map",
