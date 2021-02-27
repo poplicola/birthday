@@ -183,6 +183,12 @@
          "id":61,
          "name":"sophie",
          "opacity":1,
+         "properties":[
+                {
+                 "name":"exitSceneUrl",
+                 "type":"string",
+                 "value":"..\/birthday\/sophie.json"
+                }],
          "type":"tilelayer",
          "visible":true,
          "width":100,
@@ -195,6 +201,12 @@
          "id":62,
          "name":"autumn",
          "opacity":1,
+         "properties":[
+                {
+                 "name":"exitSceneUrl",
+                 "type":"string",
+                 "value":"..\/birthday\/autumn.json"
+                }],
          "type":"tilelayer",
          "visible":true,
          "width":100,
@@ -207,6 +219,12 @@
          "id":63,
          "name":"cecily",
          "opacity":1,
+         "properties":[
+                {
+                 "name":"exitSceneUrl",
+                 "type":"string",
+                 "value":"..\/birthday\/cecily.json"
+                }],
          "type":"tilelayer",
          "visible":true,
          "width":100,
@@ -219,6 +237,12 @@
          "id":64,
          "name":"logan",
          "opacity":1,
+         "properties":[
+                {
+                 "name":"exitSceneUrl",
+                 "type":"string",
+                 "value":"..\/birthday\/logan.json"
+                }],
          "type":"tilelayer",
          "visible":true,
          "width":100,
@@ -231,6 +255,12 @@
          "id":65,
          "name":"madison",
          "opacity":1,
+         "properties":[
+                {
+                 "name":"exitSceneUrl",
+                 "type":"string",
+                 "value":"..\/birthday\/madison.json"
+                }],
          "type":"tilelayer",
          "visible":true,
          "width":100,
@@ -243,6 +273,12 @@
          "id":66,
          "name":"gianna",
          "opacity":1,
+         "properties":[
+                {
+                 "name":"exitSceneUrl",
+                 "type":"string",
+                 "value":"..\/birthday\/gianna.json"
+                }],
          "type":"tilelayer",
          "visible":true,
          "width":100,
@@ -255,6 +291,12 @@
          "id":67,
          "name":"jayson",
          "opacity":1,
+         "properties":[
+                {
+                 "name":"exitSceneUrl",
+                 "type":"string",
+                 "value":"..\/birthday\/jayson_maze.json"
+                }],
          "type":"tilelayer",
          "visible":true,
          "width":100,
@@ -267,6 +309,12 @@
          "id":68,
          "name":"elizabeth",
          "opacity":1,
+         "properties":[
+                {
+                 "name":"exitSceneUrl",
+                 "type":"string",
+                 "value":"..\/birthday\/mommaze.json"
+                }],
          "type":"tilelayer",
          "visible":true,
          "width":100,
@@ -279,6 +327,12 @@
          "id":69,
          "name":"maura",
          "opacity":1,
+         "properties":[
+                {
+                 "name":"exitSceneUrl",
+                 "type":"string",
+                 "value":"..\/birthday\/mauramaze.json"
+                }],
          "type":"tilelayer",
          "visible":true,
          "width":100,
@@ -291,6 +345,12 @@
          "id":70,
          "name":"nicole",
          "opacity":1,
+         "properties":[
+                {
+                 "name":"exitSceneUrl",
+                 "type":"string",
+                 "value":"..\/birthday\/nicole.json"
+                }],
          "type":"tilelayer",
          "visible":true,
          "width":100,
@@ -303,6 +363,12 @@
          "id":71,
          "name":"meredyth",
          "opacity":1,
+         "properties":[
+                {
+                 "name":"exitSceneUrl",
+                 "type":"string",
+                 "value":"..\/birthday\/meredyth.json"
+                }],
          "type":"tilelayer",
          "visible":true,
          "width":100,
