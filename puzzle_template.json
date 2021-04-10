@@ -41,7 +41,7 @@
         {
          "draworder":"topdown",
          "id":3,
-         "name":"tileLayer",
+         "name":"floorLayer",
          "objects":[],
          "opacity":1,
          "type":"objectgroup",
