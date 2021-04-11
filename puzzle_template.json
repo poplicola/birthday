@@ -20,6 +20,12 @@
          "id":5,
          "name":"exit",
          "opacity":1,
+         "properties":[
+                {
+                 "name":"exitSceneUrl",
+                 "type":"string",
+                 "value":"..\/birthday\/main.json"
+                }],
          "type":"tilelayer",
          "visible":true,
          "width":40,
